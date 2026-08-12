@@ -37,3 +37,28 @@ The processed data and defined KPIs were used to build an interactive Power BI d
 
 ### 5. Business Insights
 The results were interpreted to identify operational patterns, potential problems and opportunities for improving transport operations. 
+
+## 🛠️ Technologies & Tools
+
+### Data Analysis
+- **Python** - Exploratory data analysis and data processing
+- **Pandas** - Data manipulation, cleaning and aggregation
+- **NumPy** - Numerical data processing
+- **Matplotlib** - Data visualization
+- **Seaborn** - Statistical data visualization
+- **Jupyter Notebook** - Exploratory analysis and documentation
+
+### Data & Business Intelligence
+- **SQL** - Data querying and operational analysis
+- **Power BI** - Data modeling, KPI analysis and interactive dashboards
+- **DAX** - Business metrics and calculations
+- **Power Query** - Data transformation and preparation
+
+### Data Quality & Governance
+- Data profiling
+- Data quality assessment
+- Data dictionary
+- Data Quality Log
+- KPI definition and documentation
+
+- 
