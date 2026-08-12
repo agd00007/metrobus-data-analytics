@@ -61,4 +61,24 @@ The results were interpreted to identify operational patterns, potential problem
 - Data Quality Log
 - KPI definition and documentation
 
-- 
+## 📊 Key Business Insights
+
+The analysis revealed several relevant insights about MetroBus operations:
+
+- **Passenger occupancy:** Most daytime lines maintain an average occupancy of around 45%. Lines L4 and L9 show the highest occupancy, while the N1 night line has the lowest demand.
+
+- **Service punctuality:** The highest delays occur during morning and afternoon peak hours. Delays decrease considerably during periods of lower passenger demand.
+
+- **Service interruptions:** The Barrio Sur - Universidad line records the highest number of incomplete trips, followed by Barrio Norte - Estación and Universidad - Hospital.
+
+- **Incident costs:** Critical incidents generate the highest economic impact despite occurring less frequently than other incident categories.
+
+- **Fleet maintenance:** Vehicle 14 stands out with maintenance costs exceeding €30,000, making it a relevant candidate for further analysis regarding age, mileage and usage intensity.
+
+- **Fleet incidents:** Vehicles 9, 10 and 30 record the highest number of incidents, although the differences compared with the rest of the fleet are relatively small.
+
+- **Travel evolution:** The total number of trips remains relatively stable over the analyzed period, with a slight decrease observed in 2023.
+
+These insights can support operational decisions related to service planning, fleet maintenance, resource allocation and cost control.
+
+
