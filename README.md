@@ -105,3 +105,20 @@ metrobus-data-analytics/
 - **MetroBus.pbix** - Power BI project containing the data model, KPIs, visualizations and interactive dashboards.
 
 - **05_presentacion.pptm** - Final presentation summarizing the analysis, methodology, results and business conclusions.
+
+## 📈 Key Performance Indicators (KPIs)
+
+The project defines a set of business KPIs to evaluate the operational performance of the MetroBus transport network.
+
+| KPI | Purpose |
+|---|---|
+| **Average Occupancy (%)** | Measure the average utilization of transport capacity |
+| **Average Departure Delay** | Evaluate service punctuality |
+| **Completed Trips Rate (%)** | Measure service reliability |
+| **Total Incident Cost (€)** | Evaluate the economic impact of operational incidents |
+| **Total Maintenance Cost (€)** | Monitor fleet maintenance expenditure |
+| **Average Consumption** | Analyze vehicle consumption and efficiency |
+| **Critical Incidents** | Monitor high-severity operational incidents |
+| **Incomplete Trips** | Identify service interruptions and operational problems |
+
+The KPIs were formally documented with their calculation method, data source and exclusion criteria to ensure consistent interpretation across the analysis.
