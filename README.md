@@ -1,4 +1,5 @@
 # 🚌 MetroBus Data Analytics
+![MetroBus Power BI Dashboard](metrobus_dashboard.png)
 
 End-to-end data analytics and Business Intelligence project focused on the operational performance of a public transport network.
 
