@@ -81,4 +81,27 @@ The analysis revealed several relevant insights about MetroBus operations:
 
 These insights can support operational decisions related to service planning, fleet maintenance, resource allocation and cost control.
 
+## 📁 Project Structure
 
+```text
+metrobus-data-analytics/
+│
+├── 01_eda.ipynb           # Exploratory Data Analysis with Python
+├── 02_sql.sql             # SQL queries and operational analysis
+├── 03_gobierno.md         # Data governance, data quality and KPI documentation
+├── MetroBus.pbix           # Power BI dashboard and data model
+├── 05_presentacion.pptm   # Final project presentation
+└── README.md               # Project documentation
+```
+
+### Project Files
+
+- **01_eda.ipynb** - Exploratory Data Analysis (EDA), data inspection, cleaning and identification of data quality issues using Python.
+
+- **02_sql.sql** - SQL queries used to analyze operational performance and extract relevant business information.
+
+- **03_gobierno.md** - Data governance documentation including the data dictionary, Data Quality Log, cleaning decisions and formal KPI definitions.
+
+- **MetroBus.pbix** - Power BI project containing the data model, KPIs, visualizations and interactive dashboards.
+
+- **05_presentacion.pptm** - Final presentation summarizing the analysis, methodology, results and business conclusions.
